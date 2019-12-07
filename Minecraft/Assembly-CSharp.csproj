@@ -51,7 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Resources\BlockyCustomCharacter\DemoAnimationScript.cs" />
      <Compile Include="Assets\Scripts\DayNightlight.cs" />
+     <Compile Include="Assets\Scripts\FPS.cs" />
      <Compile Include="Assets\Scripts\MapSpawn.cs" />
      <Compile Include="Assets\Scripts\Move.cs" />
  <Reference Include="UnityEngine.UI">
